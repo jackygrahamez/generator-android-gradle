@@ -4,7 +4,15 @@
 
 ### What is android-gradle?
 
+You need gradle to run this.
+
 android-gradle is a [Yeoman](http://yeoman.io) generator, used to create an [Android](http://developer.android.com) + [Gradle](http://www.gradle.org/) project.
+
+Homebrew users can install 
+
+```
+$ brew install gradle
+```
 
 ### What is Yeoman?
 
